@@ -2,3 +2,5 @@
 exercises-for-programmers
 
 ## scala
+## kotlin
+## haskell
